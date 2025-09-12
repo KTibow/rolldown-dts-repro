@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "rolldown -c"
+  },
+  "devDependencies": {
+    "rolldown": "1.0.0-beta.37",
+    "rolldown-plugin-dts": "^0.16.3",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "set-cookie-parser": "^2.7.1"
+  }
+}
